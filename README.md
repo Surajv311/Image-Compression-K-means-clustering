@@ -12,4 +12,5 @@ You may install:<br>
 ```conda install seaborn```<br>
 ```pip install livelossplot```<br>
 
-K-means clustering algorithm used to compress the image. 
+K-means clustering algorithm used to compress the image. <br>
+![img](https://github.com/Surajv311/Image-Compression-K-means-clustering/blob/master/image%20compression.jpg)
