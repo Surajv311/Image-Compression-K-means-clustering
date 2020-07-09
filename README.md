@@ -13,4 +13,4 @@ You may install:<br>
 ```pip install livelossplot```<br>
 
 K-means clustering algorithm used to compress the image. <br>
-![img](https://github.com/Surajv311/Image-Compression-K-means-clustering/blob/master/image%20compression.jpg)
+![img](https://github.com/Surajv311/Image-Compression-K-means-clustering/blob/master/result%20Image/image%20compressed.jpg)
